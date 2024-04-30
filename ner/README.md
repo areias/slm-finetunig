@@ -1,17 +1,6 @@
 # LLMs for NER
 
-https://discuss.huggingface.co/t/reduced-inference-f1-score-with-qlora-finetuned-model/53492
+Code for [Fine-tuning to enhance NLP tasks with small, self-hosted language models](https://medium.com/kineviz/fine-tuning-to-enhance-nlp-tasks-with-small-self-hosted-language-models-4480323d1c02) 
 
+Instruction fine-tuning Mistral:Instruct 7B improved standard named entity recognition (NER) F1 score by 12% and domain-specific NER by 30%.
 
-https://raw.githubusercontent.com/juand-r/entity-recognition-datasets/master/README.rst
-
-
-add f1 to validation run
-named entity task
-
-https://www.clips.uantwerpen.be/conll2003/ner/
-
-
-found a paper that shows gpt3.5 had zero shot f1 of 0.53 for NER using person, organization, location and misc https://arxiv.org/pdf/2302.06476.pdf
-
-https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging)
